@@ -1,0 +1,28 @@
+topics:
+
+1. communication protocols
+
+tcp,udp
+quic
+http
+websockets
+grpc
+
+2. web servers
+how they work
+dynamic vs static content
+e-tags
+http protocol
+
+3. database engineering
+realtional vs no-sql
+acid
+
+4. proxies(reverse proxies, load balancer)
+5. caching
+when to use caching
+6. message queue, Pub/Sub
+7. web frameworks(API authoring)
+8. message formats(JSON)
+9. security
+-tls, encryption, firewall
